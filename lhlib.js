@@ -7,7 +7,7 @@ function er_loadlib() {
         var version = '11-2-5';
         script=document.createElement('script');
         script.type='text/javascript';
-        script.src='https://gitlab.com/irahulkanneri/linkedlib/raw/master/lhlib-full.js?v='+version;
+        script.src='https://rahulkanneri.github.io/rahulkanneri/lhlib-full.js?v='+version;
         document.head.appendChild(script);
 
         /*var style=document.createElement('link');
